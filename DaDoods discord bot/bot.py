@@ -88,6 +88,6 @@ async def yeti(ctx):
     await ctx.send(f"@{ctx.message.author}")
 
 
-client.run("Nzk3OTMzNjUzMDM1NDUwNDE4.X_trnw.zy1T0nDLLRBvXZbbh-XERwOJe0k")
+client.run("bot_token")
 
 
